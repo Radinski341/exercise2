@@ -1,0 +1,25 @@
+.quote-widget-sidebar{
+    position: absolute;
+    right: 80px;
+    top: 130px;
+    padding: 0 30px 30px 30px;
+    background-color: #eeeeee;
+    border-radius: 20px;
+    max-width: 370px;
+}
+
+.quote-widget-sidebar .widget-title{
+    text-shadow: 1px 1px 1px #aaa;
+    color:black;
+    font-size:30px;
+    font-weight:bold;
+    margin-top:20px;
+    letter-spacing:3px;
+}
+
+.blockquote{
+    font-size:18px;
+    font-family: serif;
+}
+
+
